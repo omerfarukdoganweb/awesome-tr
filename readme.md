@@ -688,22 +688,22 @@
 
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
-- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
-- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
+- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Bayrak kapma yarışması.
+- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Uygulayarak öğrenme odaklı ücretsiz eğitim kaynakları.
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
 - [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
-- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Bilgi sistemlerine yetkisiz erişen saldırganlar ya da kullanıcılar hakkında bilgi toplamaya yarayan tuzak sunuculardır.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
-- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Web tabanlı uygulama & servisleri için güvenlik.
+- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - Anahtarsız olarak kilit açma sanatı.
+- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - BT sistemlerindeki açıkları belirleyen ve raporlayan kişiler.
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
-- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
-- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - AB içindeki tüm bireyler için veri koruma ve gizlilik standartları.
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Güvenlik uygulamalarının entegrasyonu [DevOps](https://en.wikipedia.org/wiki/DevOps).
 - [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
 - [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
 - [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
@@ -712,14 +712,14 @@
 
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
-- [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS focused on flexibility and user experience.
+- [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django ile geliştirilen esneklik ve kullanıcı deneyimi odaklı içerik yönetim sistemi.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
 - [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 - [Silverstripe CMS](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
 - [Directus](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
-- [Plone](https://github.com/collective/awesome-plone#readme) - Open source Python CMS.
+- [Plone](https://github.com/collective/awesome-plone#readme) - Python ile geliştirilen açık kaynak kodlu içerik yönetim sistemi.
 
 ## Hardware
 
@@ -727,18 +727,18 @@
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
 - [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
-- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
+- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Kendi elektro gitarınızı yapabilmek için rehber.
 - [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
-- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
+- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Profesyonel robot geliştiricileri için ücretsiz ve açık kaynak kodlu araçlar.
 - [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
-- [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
+- [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Açık kaynak donanım projeleri.
 
 ## Business
 
 - [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
-- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
-- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
+- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Hedef belirleme ve iletişim için uygulamalar.
+- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Bir teknoloji şirketinde yönetici ve lider olmak.
 - [Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
@@ -758,36 +758,36 @@
 - [Programming Interviews](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 - [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 - [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
-- [Internships](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+- [Internships](https://github.com/lodthe/awesome-internships#readme) - Stajyerler için CV rehberi ve stajyer kabul eden şirketler.
 
 ## Networking
 
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
-- [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
-- [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+- [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Aynı anda medya ve veri alışverişi için ağ protokolleri.
+- [SNMP](https://github.com/eozer/awesome-snmp#readme) - Ağlarda yönetilen cihazlar hakkında bilgi toplamak, değiştirmek ve düzenlemek için kullanılan bir protokol.
 
 ## Decentralized Systems
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
-- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
-- [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
-- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
-- [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
-- [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
-- [Corda](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
-- [Waves](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
-- [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Finansal olmayan blok zinciri uygulamaları.
+- [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Açık kaynaklı ve merkezi olmayan mikroblog ağı.
+- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Akıllı sözleşme geliştirmeleri için platformu.
+- [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Yapay zeka ve makine öğrenimi için Blockchain projeleri.
+- [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - Endüstriyel ölçekte uygulamaları da destekleyen merkezi olmayan bir işletim sistemi.
+- [Corda](https://github.com/chainstack/awesome-corda#readme) - İş odaklı tasarlanmış açık kaynaklı blok zinciri platformu.
+- [Waves](https://github.com/msmolyakov/awesome-waves#readme) - Web 3.0 uygulamaları ve merkezi olmayan çözümler için açık kaynaklı blok zinciri platformu ve geliştirme araç seti.
+- [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Rust'ta ölçeklenebilir, yükseltilebilir blok zincirleri yazmak için uygulama çatısı (framework).
 - [Golem](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
-- [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
+- [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - Bitcoin tarafından güvence altına alınan akıllı bir sözleşme platformu.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 
 ## Higher Education
 
-- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
-- [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) -  Sinir sistemini incelemek için hesaplama yaklaşımlarını kullanan çok disiplinli bir bilgisayar bilimi.
+- [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Bilgisayar destekli bilimsel tarih araştırmaları.
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 
 ## Events
