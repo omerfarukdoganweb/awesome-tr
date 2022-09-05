@@ -670,19 +670,19 @@
 
 ## Learn
 
-- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
+- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - İnteraktif öğrenme içerikleri.
 - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme)
 - [Speaking](https://github.com/matteofigus/awesome-speaking#readme)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos#readme)
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
 - [Computer History](https://github.com/watson/awesome-computer-history#readme)
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
-- [Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
+- [Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Eğlenirken öğrenme.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
-- [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
-- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
-- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+- [Product Management](https://github.com/dend/awesome-product-management#readme) - Nasıl daha iyi bir ürün yöneticisi olunacağını öğrenmeyi sağlayan kaynaklar.
+- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Farklı alanlardaki bilgi ve becerilerinizi geliştirmek için size çeşitli yol haritaları sunar.
+- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Teknolojiyi öğreten YouTuber'ların video eğitimleri.
 
 ## Security
 
@@ -823,8 +823,8 @@
 - [Continuous Integration and Continuous Delivery](https://github.com/cicdops/awesome-ciandcd#readme)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering#readme)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev#readme)
-- [Answers](https://github.com/cyberglot/awesome-answers#readme) - Stack Overflow, Quora, etc.
-- [Sketch](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
+- [Answers](https://github.com/cyberglot/awesome-answers#readme) - BT sektörü için soru-cevap platformları.
+- [Sketch](https://github.com/diessica/awesome-sketch#readme) - macOS üzerinde farklı tasarımlar yapmak için bir araç.
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates#readme)
 - [Readme](https://github.com/matiassingers/awesome-readme#readme)
 - [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
@@ -847,18 +847,18 @@
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme)
 - [Katas](https://github.com/gamontal/awesome-katas#readme)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism#readme)
-- [Citizen Science](https://github.com/dylanrees/citizen-science#readme) - For community-based and non-institutional scientists.
+- [Citizen Science](https://github.com/dylanrees/citizen-science#readme) - Toplum temelli ve kurumsal olmayan bilim adamları için kaynaklar.
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) - "Internet of Things" connectivity protocol.
 - [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) - Node.js CLI framework.
-- [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
+- [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - Düşük maliyetli ve çapraz platform 3D grafikler ve hesaplama arayüzü (API).
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) - Typesetting language.
-- [Economics](https://github.com/antontarasenko/awesome-economics#readme) - An economist's starter kit.
+- [Economics](https://github.com/antontarasenko/awesome-economics#readme) - Ekonomistler için başlangıç rehberi.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
-- [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
+- [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Kimyadaki problemlere uygulanan bilişim teknikleri.
 - [Colorful](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
-- [Steam](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
+- [Steam](https://github.com/scholtzm/awesome-steam#readme) - Dijital dağıtım platformu.
 - [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme)
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
@@ -866,51 +866,51 @@
 - [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Pokémon and Pokémon GO.
 - [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
-- [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - Falsehoods programmers believe in.
-- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - Software development approach for complex needs by connecting the implementation to an evolving model.
-- [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - Self-tracking through technology.
+- [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - Programcıların inandığı yalanlar.
+- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - Uygulamayı gelişen bir modele bağlayarak karmaşık ihtiyaçlar için bir çeşit yazılım geliştirme yaklaşımı.
+- [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - Teknoloji aracılığıyla kişisel takip projeleri.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack#readme) - Python-based config management system.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) - For digital designers.
-- [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - Programming something expressive instead of something functional.
-- [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - Web apps that work without login.
+- [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - İşlevsel bir şey yerine anlamlı bir şey programlamak için rehber.
+- [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - Oturum açmadan çalışan web uygulamaları.
 - [Free Software](https://github.com/johnjago/awesome-free-software#readme) - Free as in freedom.
 - [Framer](https://github.com/podo/awesome-framer#readme) - Prototyping interactive UI designs.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) - Markup language.
 - [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme) - Geliştiriciler için eğlenceli projeler.
 - [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) - Tesisler, sağlayıcılar, geliştiriciler, politika uzmanları ve araştırmacılar için açık kaynaklı sağlık yazılımı.
-- [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) - Open Source eCommerce built with PHP.
+- [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) - PHP ile oluşturulmuş E-Ticaret platformu.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) - Graph drawing packages for TeX/LaTeX/ConTeXt.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) - Reklamsız alternatifler.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Şaka ve eğlence amaçlı oluşturulan programlama dilleri.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - Açık kaynak kodlu sistem izleme aracı.
-- [Homematic](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
+- [Homematic](https://github.com/homematic-community/awesome-homematic#readme) - Homematic akıllı ev cihazları.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - Double-entry accounting on the command-line.
 - [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) - Tarayıcı üzerinden para gönderilmesini sağlayan ücretsiz ve açık kaynak kodlu web standardı.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
 - [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
-- [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) - Companies that offer their tools and services for free to open source projects.
-- [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - Create better and more consistent designs and experiences.
+- [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) - Araçlarını ve hizmetlerini ücretsiz olarak açık kaynaklı projelere sunan şirketler.
+- [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - Daha iyi ve tutarlı tasarımlar oluşturabilmek için tasarım prensipleri.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
 - [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
 - [Calculators](https://github.com/xxczaki/awesome-calculators#readme) - Tüm platformlar için hesap makineleri.
-- [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
+- [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - İşlem yapacak kullanıcının gerçek insan olup olmadığını belirlemek için yapılan bir çeşit test.
 - [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - Uluslararası çapta liseler arası robotik şampiyonası.
-- [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
+- [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Toplumu geliştirmeye yardımcı olan açık kaynaklı projeler.
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
-- [Board Games](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
-- [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
+- [Board Games](https://github.com/edm00se/awesome-board-games#readme) - Herkes için masaüstü oyunları.
+- [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - Bireysel programcılara veya açık kaynak projelerinin geliştirilmesine fon sağlamak için kaynaklar.
 - [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
-- [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
-- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
-- [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
-- [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
+- [Food](https://github.com/jzarca01/awesome-food#readme) - Github'da bulunan gıda ile ilgili projeler.
+- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - BT alanında çalışanların ruh sağlığı bilinci ve öz bakımları.
+- [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Bitcoin ile ödeme yapmaya başlamak için rehber.
+- [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) - Bilgisayarlar aracılığıyla karmaşık bilimsel problemleri çözme.
 - [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
-- [Agriculture](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
-- [Product Design](https://github.com/ttt30ga/awesome-product-design#readme) - Design a product from the initial concept to production.
+- [Agriculture](https://github.com/brycejohnston/awesome-agriculture#readme) - Tarım ve bahçecilik için açık kaynak projeler.
+- [Product Design](https://github.com/ttt30ga/awesome-product-design#readme) - Konseptten üretime bir ürün ortaya çıkartmak için rehber.
 - [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - Yazılım geliştirme için tasarım ve oluşturma disiplinleri.
 - [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
@@ -924,9 +924,9 @@
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) - Wordpress için komut satırı arayüzü.
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
-- [Ansible](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
+- [Ansible](https://github.com/ansible-community/awesome-ansible#readme) - Python tabanlı, açık kaynaklı bir BT yönetimi ve otomasyon platformu.
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
-- [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - Az miktarda bilgiyi depolamak ve paylaşmak için kullanılabilen bir tür matris barkodu.
+- [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - Az miktarda bilgiyi depolamak ve paylaşmak için kullanılabilen bir tür barkod.
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) - Vegan yaşamı yaymak için awesome listesi.
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 - [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - Javascript otomasyonları için IOS uygulaması.
@@ -939,7 +939,7 @@
 - [All Awesome Lists](https://github.com/topics/awesome) - Github üzerindeki tüm Awesome Listeleri.
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top) - Awesome listelerinde hızlıca arama yapmak için kullanılan araç.
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
+- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Sizi rastgele seçilmiş bir Awesome Listesine götüren bir tarayıcı eklentisi.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - Awesome Listeleri için komut satırı aracı (cli).
 - [Awesome Viewer](https://awesome.digitalbunker.dev) - Tüm awesome listelerine ulaşmak için görsel arayüz.
 - [Track Awesome List](https://www.trackawesomelist.com) - Awesome listelerindeki son güncellemeleri görebilmek için bir araç.
